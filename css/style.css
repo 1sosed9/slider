@@ -27,7 +27,7 @@ button {
 }
 
 button:hover {
-  background: red;
+  opacity: 75%;
 }
 
 button:active {
